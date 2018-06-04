@@ -1,6 +1,6 @@
 # Movie-List
 
-# Build using ASP.NET Core and React.js with SQL Server Compact for a local database. Source code is available for server under "MovieApp" folder and the client is available under "movieappclient" folder. Final release is present under "FinalBuild" folder.
+Build using ASP.NET Core and React.js with SQL Server Compact for a local database. Source code is available for server under "MovieApp" folder which also includes the DB migration scripts.The client is available under "movieappclient" folder. Final release is present under "FinalBuild" folder. 
 
 # Operations that can be done:
   1. Add Movie.
